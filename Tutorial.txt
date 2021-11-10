@@ -1,0 +1,3 @@
+Trocar no WebConfig do Projeto Presentation (TestePresentation) a key ApiURL, colocando a URL que irá abrir a API (TesteApp)  no IIS Express
+
+(Somente se o IIS Express abrir em uma porta diferente)
