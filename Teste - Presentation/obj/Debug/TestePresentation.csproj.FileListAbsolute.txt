@@ -88,3 +88,93 @@ C:\Users\lucas\source\repos\Teste - Presentation\Teste - Presentation\bin\pt-br\
 C:\Users\lucas\source\repos\Teste - Presentation\Teste - Presentation\obj\Debug\TestePresentation.csproj.AssemblyReference.cache
 C:\Users\lucas\source\repos\Teste - Presentation\Teste - Presentation\bin\pt-br\System.Net.Http.Formatting.resources.dll
 C:\Users\lucas\source\repos\Teste - Presentation\Teste - Presentation\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Teste - Presentation.dll.config
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Teste - Presentation.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Teste - Presentation.pdb
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\csc.exe
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\csc.exe.config
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\csc.rsp
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\csi.exe
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\csi.rsp
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\vbc.exe
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\vbc.exe.config
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\vbc.rsp
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Antlr3.Runtime.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Newtonsoft.Json.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Ninject.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Ninject.Web.Common.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Ninject.Web.WebApi.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\SimpleInjector.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Helpers.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Http.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Mvc.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Optimization.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Razor.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.WebPages.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Unity.Abstractions.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Unity.Container.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Unity.Mvc.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\WebActivatorEx.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\WebGrease.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Ninject.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Ninject.Web.Common.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Ninject.Web.WebApi.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\SimpleInjector.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Http.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Helpers.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Mvc.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Optimization.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.Razor.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.WebPages.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Newtonsoft.Json.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Unity.Abstractions.pdb
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Unity.Container.pdb
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Unity.Mvc.pdb
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Unity.Mvc.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\obj\Debug\TestePresentation.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\obj\Debug\TestePresentation.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\obj\Debug\Teste - Presentation.dll
+C:\Users\lucas\source\repos\Entrevista\Teste - Presentation\obj\Debug\Teste - Presentation.pdb

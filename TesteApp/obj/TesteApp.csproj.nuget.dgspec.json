@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\Teste - Presentation\\TesteApp\\TesteApp.csproj": {}
+    "C:\\Users\\lucas\\source\\repos\\Entrevista\\TesteApp\\TesteApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\Teste - Presentation\\TesteApp\\TesteApp.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\Entrevista\\TesteApp\\TesteApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\Teste - Presentation\\TesteApp\\TesteApp.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\Entrevista\\TesteApp\\TesteApp.csproj",
         "projectName": "TesteApp",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\Teste - Presentation\\TesteApp\\TesteApp.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\Entrevista\\TesteApp\\TesteApp.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\Teste - Presentation\\TesteApp\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\Entrevista\\TesteApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,8 +12,6 @@ namespace TestePresentation.Api
     public class MovimentoManual : Api.IMovimentoManual
     {
         private readonly HttpClient _httpClient;
-        //private readonly JsonSerializerOptions _jsonOptions = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
-
         public MovimentoManual(HttpClient httpClient)
         {
             _httpClient = httpClient;

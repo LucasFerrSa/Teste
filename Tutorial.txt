@@ -1,3 +1,2 @@
-Trocar no WebConfig do Projeto Presentation (TestePresentation) a key ApiURL, colocando a URL que irá abrir a API (TesteApp)  no IIS Express
-
-(Somente se o IIS Express abrir em uma porta diferente)
+1 - Configurar a Solução para Rodar os Dois Projetos ao mesmo tempo (TestePresentation e TesteApi);
+2 - Caso Precise: Trocar no WebConfig do Projeto Presentation (TestePresentation) a key ApiURL, colocando a URL que irá abrir a API (TesteApp)  no IIS Express
