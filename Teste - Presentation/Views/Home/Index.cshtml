@@ -1,0 +1,190 @@
+﻿
+
+
+@{ ViewBag.Title = "Home Page"; }
+<style>
+    .col-sm {
+        width: 300px !important;
+        float: left;
+        margin-right: 50px
+    }
+
+</style>
+<div class="container">
+    <h2>Movimentos Manuais</h2>
+    <div class="row">
+        <div class="col-sm">
+            <label>Mês: </label>
+            <input class="form-control" id="mes" />
+        </div>
+        <div class="col-sm">
+            <label>Ano: </label>
+            <input class="form-control" id="ano" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group col-sm">
+            <label>Produto: </label>
+            <select class="form-control" id="produto">
+                <option>-- Selecione --</option>
+                @foreach (var item in Model.Produto)
+                {
+    <option value="@item.COD_PRODUTO">@item.DES_PRODUTO</option>
+}
+            </select>
+        </div>
+        <div class="form-group col-sm">
+            <label>Produto Cosif: </label>
+            <select class="form-control" id="cosif">
+                <option>-- Selecione --</option>
+                @foreach (var item in Model.ProdutoCosif)
+                {
+    <option value="@item.COD_COSIF">@item.COD_COSIF - @item.COD_CLASSIFICACAO</option>
+}
+            </select>
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="form-group col">
+            <label>Valor: </label>
+            <input class="form-control" id="valor" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group col">
+            <label>Descrição: </label>
+            <textarea class="form-control" id="descricao"> </textarea>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group col">
+            <input class="btn btn-primary" type="button" id="btnLimpar" value="Limpar">
+            <input class="btn btn-primary" type="button" id="btnNovo" value="Novo">
+            <input class="btn btn-primary" type="button" id="btnIncluir" value="Incluir">
+        </div>
+    </div>
+
+
+
+
+    <div class="row">
+        <div class="col">
+            <table class="table table-striped table-bordered mt-5">
+                <thead>
+                    <tr>
+                        <th>
+                            Mês
+                        </th>
+                        <th>
+                            Ano
+                        </th>
+                        <th>
+                            Código do Produto
+                        </th>
+                        <th>
+                            Descrição do Produto
+                        </th>
+                        <th>
+                            Nr Lançamento
+                        </th>
+                        <th>
+                            Descrição
+                        </th>
+                        <th>
+                            Valor
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.MovimentoManual)
+                    {
+        <tr>
+            <td>
+                @item.DAT_MES
+            </td>
+            <td>
+                @item.DAT_ANO
+            </td>
+            <td>
+                @item.COD_PRODUTO
+            </td>
+            <td>
+                @item.DES_DESCRICAO
+            </td>
+            <td>
+                @item.NUM_LANCAMENTO
+            </td>
+            <td>
+                @item.COD_USUARIO @item.DES_DESCRICAO
+            </td>
+            <td>
+                @item.VAL_VALOR
+            </td>
+        </tr>
+}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#mes').mask('00');
+        $('#ano').mask('0000');
+        $('#valor').mask('000,00', { reverse: true });
+
+
+        $("#mes").attr('disabled', 'disabled');
+        $("#ano").attr('disabled', 'disabled');
+        $("#produto").attr('disabled', 'disabled');
+        $("#cosif").attr('disabled', 'disabled');
+        $("#valor").attr('disabled', 'disabled');
+        $("#descricao").attr('disabled', 'disabled');
+
+        $('#btnNovo').click(function () {
+            $("#mes").removeAttr('disabled');
+            $("#ano").removeAttr('disabled');
+            $("#produto").removeAttr('disabled');
+            $("#cosif").removeAttr('disabled');
+            $("#valor").removeAttr('disabled');
+            $("#descricao").removeAttr('disabled');
+        });
+
+        $('#btnLimpar').click(function () {
+            $("#mes").val("");
+            $("#ano").val("");
+            $("#produto").val("");
+            $("#cosif").val("");
+            $("#valor").val("");
+            $("#descricao").val("");
+        });
+
+        $('#btnIncluir').click(function () {
+            var dataSend = {
+                "DAT_MES": $("#mes").val(),
+                "DAT_ANO": $("#ano").val(),
+                "COD_PRODUTO": $("#produto").val(),
+                "COD_COSIF": $("#cosif").val(),
+                "VAL_VALOR": $("#valor").val(),
+                "DES_DESCRICAO": $("#descricao").val()
+            }
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("Incluir", "Home")',
+                data: dataSend,
+                success: function (cosifs) {
+                    document.location.reload(true);
+                },
+                error: function (e) {
+                    document.location.reload(true);
+                }
+            });
+        });
+    });
+</script>
